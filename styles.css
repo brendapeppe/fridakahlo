@@ -91,16 +91,16 @@ font-size: 1.1em;
 color: rgb(165, 174, 180);
 }
 #history{
-background-color: rgb(128, 180, 187); /* ALTERA COR DE FUNDO */
+background-color: rgb(247, 166, 166); /* ALTERA COR DE FUNDO */
 
 }
 #painting{
-    background-color: rgb(116, 212, 207); /* ALTERA COR DE FUNDO
+    background-color: rgb(182, 252, 193); /* ALTERA COR DE FUNDO
      */
 
 }
 #curiosities{
-    background-color: rgb(144, 214, 219);/* ALTERA COR DE FUNDO */
+    background-color: rgb(250, 135, 131);/* ALTERA COR DE FUNDO */
 }
 .cta-button{
 margin-top: 30px;
